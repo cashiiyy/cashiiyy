@@ -1,16 +1,25 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="cashiiyy's GitHub profile" src="dark_mode.svg" />
+</picture>
 
-<!--
-**cashiiyy/cashiiyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## 🧪 Featured Projects
+
+- **Vidya AI:** A Multi-Agent Career & Education Mentor using ADK and Gemini.
+- **JARVIS:** A real-time voice-enabled AI assistant integrating Coqui TTS and OpenAI.
+- **BAYMAX:** Your personal healthcare multimodel companion.
+- **MyAuto:** A centralized digital ecosystem connecting passengers and auto-rickshaw drivers.
+
+
+## 📬 Connect
+
+- **GitHub:** [@cashiiyy](https://github.com/cashiiyy)
+- **LinkedIn:** [Kasinathan P S](https://linkedin.com/in/cashiiyy)
+- **Instagram:** [@cashiiyy](https://instagram.com/cashiiyy)
